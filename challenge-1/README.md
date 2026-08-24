@@ -153,7 +153,7 @@ workflow actually needs are present in your `.env` file:
 
 ```bash
 AI_FOUNDRY_PROJECT_ENDPOINT="https://<your-project>.services.ai.azure.com/api/projects/<project>"
-MODEL_DEPLOYMENT_NAME="gpt-5.4-mini"
+MODEL_DEPLOYMENT_NAME="gpt-4.1-mini"
 ```
 
 The Risk Analyser additionally picks up your project's **Azure AI Search** connection automatically
