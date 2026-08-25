@@ -136,7 +136,7 @@
         "SecurityControl": "ignore"
       },
       "sku": {
-        "name": "basic"
+        "name": "standard"
       },
       "properties": {
         "hostingMode": "default",
